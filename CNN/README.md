@@ -95,9 +95,9 @@ For each image, the notebook displays:
 
 ### Custom Image Result
 
-Correct Predictions: **4/10**
+Correct Predictions: 6/10
 
-Custom Image Accuracy: **40%**
+Custom Image Accuracy: 60%
 
 ## Visualizations
 
